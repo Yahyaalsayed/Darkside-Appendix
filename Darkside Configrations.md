@@ -1,0 +1,155 @@
+## Process Terminated by DarkSide 
+- sqloracle   
+- ocssd    
+- dbsnmp   
+- synctime    
+- agntsvc     
+- isqlplussvc 
+- xfssvccon   
+- mydesktopservice    
+- ocautoupds  
+- encsvc  
+- firefox         
+- tbirdconfig 
+- mydesktopqos    
+- ocomm   
+- dbeng50 
+- sqbcoreservice  
+- excel   
+- infopath    
+- msaccess    
+- mspub   
+- onenote     
+- outlook 
+- powerpnt    
+- steam   
+- thebat  
+- thunderbird     
+- visio winword   
+- wordpad     
+- notepad 
+- x32dbg  
+- x64dbg  
+- ida 
+
+## Services Terminated by DarkSide 
+- vss         
+- sql         
+- svc 
+- memtas  
+- mepocs  
+- sophos  
+- veeam   
+- backup  
+- GxVss   
+- GxBlr   
+- GxFWD   
+- GxCVD   
+- GxCIMg  
+
+## Folders Exempt from Encryption
+- recycle bin     
+- config  
+- msi     
+- windows     
+- appdata     
+- application             
+- data        
+- boot        
+- google      
+- mozilla         
+- program files (x86)      
+- program data        
+- system volume information       
+- tor browser         
+- windows old         
+- intel       
+- msocache    
+- perflogs    
+- public  
+- all users   
+- default 
+
+## Files Exempt from Encryption
+- autorun     
+- run     
+- inf     
+- boot    
+- ini     
+- bootfont    
+- bin     
+- bootsect    
+- bak     
+- desktop     
+- ini     
+- iconcache   
+- db  
+- ntdlr   
+- ntuser  
+- dat 
+- log     
+- thumbs  
+
+## Extensions Exempt from Encryption
+- 386     
+- adv     
+- ani     
+- bat     
+- bin 
+- cab     
+- cmd     
+- com         
+- cpl         
+- cur     
+- deskthemepack      
+- diagcab         
+- diagcfg         
+- diagpgk         
+- dll     
+- drv         
+- exe         
+- hlp         
+- icl         
+- icns        
+- ico         
+- ics         
+- idx         
+- ldf         
+- Ink     
+- mod         
+- mpa         
+- msc         
+- msp         
+- msstyles        
+- msu         
+- nls         
+- nomedia         
+- ocx         
+- prf     
+- ps1         
+- rom         
+- rtp         
+- scr         
+- shs     
+- sp1         
+- sys         
+- theme       
+- themepack           
+- wpx             
+- lock            
+- key         
+- hta         
+- msi         
+- pdb       
+
+## CnC Domains 
+- baroquetees.com   
+- rumahsia.com
+
+## Process Forced not to shutdown 
+- vmcompute   
+- vms     
+- vmwp    
+- svchost     
+- TeamViewer  
+- explorer    
